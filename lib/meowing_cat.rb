@@ -2,14 +2,13 @@
 class Cat
   attr_accessor :name
 
-  def initialize(meow)
+  def meow=(meow)
     @meow = "meow!"
   end
-  
+
   def meow
     @meow
-  end
-
+  
 end
 
 x = Cat.new
