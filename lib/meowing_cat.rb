@@ -7,3 +7,5 @@ class Cat
   end
 
 end
+
+x = cat.new
