@@ -8,4 +8,4 @@ class Cat
 
 end
 
-x = cat.new
+x = Cat.new
