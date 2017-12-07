@@ -8,7 +8,8 @@ class Cat
 
   def meow
     @meow
-  
+  end
+
 end
 
 x = Cat.new
